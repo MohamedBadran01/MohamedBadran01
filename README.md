@@ -61,13 +61,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 
 <br>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedBadran01&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<br>
 
 ## 🚀 Current Focus
 
