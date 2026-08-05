@@ -6,3 +6,6 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" />
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=MohamedBadran01&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
