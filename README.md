@@ -20,3 +20,11 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 - 🎯 Focused on writing clean, maintainable, and efficient code.
 
 - 📫 Reach me: **moahmedbadran777@gmail.com**
+
+  ## 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma,npm,postman,linux&perline=9" />
+
+</p>
