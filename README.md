@@ -4,7 +4,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%26+JavaScript;Building+Clean+%26+Scalable+Interfaces;Turning+Ideas+Into+Interactive+Experiences" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,11 +15,13 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 
 ## 👨‍💻 About Me
 
-- 🚀 Frontend Developer specializing in **React.js** and modern **JavaScript**
-- 💡 Passionate about building responsive, scalable, and user-friendly web applications
-- 🌱 Currently expanding my skills in **Node.js**, **Express.js**, and backend development
-- 🎯 Focused on writing clean, maintainable, and efficient code
-- ⚡ Always learning new technologies and building real-world projects
+🚀 Frontend Developer specializing in React.js and modern JavaScript.
+
+💡 Passionate about building responsive, scalable, and user-focused web applications.
+
+🌱 Currently building modern frontend applications while expanding into backend development.
+
+🎯 Committed to writing clean, maintainable, and efficient code.
 
 <br>
 
