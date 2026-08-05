@@ -19,7 +19,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 - 💡 Passionate about building scalable, responsive, and user-focused web applications
 - 🌱 Currently expanding my expertise in full-stack development
 - 🎯 Focused on writing clean, maintainable, and efficient code
-- 📫 Reach me: **moahmedbadran777@gmail.com**
+- 📫 Reach me: **mohamedbadran777@gmail.com**
 
 <br>
 
@@ -34,12 +34,12 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedBadran01&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedBadran01&hide_border=true" height="165" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedBadran01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBadran01&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBadran01&layout=compact&hide_border=true" height="165" />
+  <img src="https://streak-stats.demolab.com?user=MohamedBadran01&theme=tokyonight&hide_border=true" />
 </p>
 
 <br>
@@ -50,7 +50,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
   <a href="https://www.linkedin.com/in/mohamed-badran-3b9b563a3/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:moahmedbadran777@gmail.com">
+  <a href="mailto:mohamedbadran777@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
