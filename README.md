@@ -4,7 +4,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=00C2FF&center=true&vCenter=true&width=750&lines=Frontend+Developer;React.js+%26+JavaScript;Building+Clean+%26+Scalable+Interfaces;Turning+Ideas+Into+Interactive+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=400&color=3B82F6&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;JavaScript+Developer;Building+Modern+Web+Apps;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
