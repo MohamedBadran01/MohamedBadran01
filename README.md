@@ -66,7 +66,7 @@ Frontend Developer focused on building modern, responsive, and scalable web appl
 
 ## ⭐ Featured Projects
 
-Projects will appear here as I continue building and shipping real-world applications.
+Projects will be added here as I continue building real-world applications.
 
 ---
 
