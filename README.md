@@ -67,14 +67,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 
 <br>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohamedBadran01&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedBadran01&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<br>
 
 ## 🔥 GitHub Streak
 
@@ -84,13 +77,7 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 
 <br>
 
-## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedBadran01&theme=tokyo-night&hide_border=true"/>
-</p>
-
-<br>
 
 ## 🚀 Current Focus
 
