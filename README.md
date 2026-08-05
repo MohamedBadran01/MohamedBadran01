@@ -9,3 +9,14 @@ Frontend Developer passionate about building modern, responsive, and scalable we
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=MohamedBadran01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+## 👨‍💻 About Me
+
+- 🚀 Frontend Developer specializing in React.js and modern JavaScript.
+
+- 💡 Passionate about building scalable, responsive, and user-focused web applications.
+
+- 🌱 Currently expanding my expertise in full-stack development.
+
+- 🎯 Focused on writing clean, maintainable, and efficient code.
+
+- 📫 Reach me: **moahmedbadran777@gmail.com**
